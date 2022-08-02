@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Erick-Osterling/Erick-Osterling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-// Hi there 👋 I'm full stack developer.
+### Hi there 👋 I'm full stack developer.
 
 - 🔭 I’m currently working on Qori.io (own startup)
 - 🌱 I’m currently learning more javascript and related. Also about blockchain, DAOs, life.
@@ -13,7 +8,7 @@
 - 📫 How to reach me: whatsApp +51 956279345 its the easiest way.
 - 😄 Pronouns: Tyler_Durden, Jack Sparrow, Iron Man. All ENTPs. Call me ENTP.
 - ⚡ Fun fact: I am concsious about the great time we all choose to be here. This can be amayzing, or not. It depends on us. Qori is a great.Great idea.
--->
+
 
 javascript Mode:
 
